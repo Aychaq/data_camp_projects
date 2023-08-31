@@ -1,23 +1,20 @@
 # data_camp_projects
 
 # Project Description
-It's not that we humans only take debts to manage our necessities. A country may also take debt to manage its economy. For example, infrastructure spending is one costly ingredient required for a country's citizens to lead comfortable lives. The World Bank is the organization that provides debt to countries.
+Every year, school test results play a role in deciding the fate of millions of students. In America, the SAT is a major part of the college admissions process.
 
-In this project, you are going to analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. You are going to find the answers to questions like:
+In this project, you will work with a SQL database containing test performance from NYC's public schools.
 
-What is the total amount of debt that is owed by the countries listed in the dataset?
-Which country owns the maximum amount of debt and what does that amount look like?
-What is the average amount of debt owed by countries across different debt indicators?
-The data used in this project is provided by The World Bank. It contains both national and regional debt statistics for several countries across the globe as recorded from 1970 to 2015.
+You will look at how performance varies by borough, identify how many schools fail to report information, and find the top ten performing schools across the city!
 
 # Project Tasks
 
-1. The World Bank's international debt data
-2. Finding the number of distinct countries
-3. Finding out the distinct debt indicators
-4. Totaling the amount of debt owed by the countries
-5. Country with the highest debt
-6. Average amount of debt across indicators
-7. The highest amount of principal repayments
-8. The most common debt indicator
-9. Other viable debt issues and conclusion
+1. Inspecting the data
+2. Finding missing values
+3. Schools by building code
+4. Best schools for math
+5. Lowest reading score
+6. Best writing school
+7. Top 10 schools
+8. Ranking boroughs
+9. Brooklyn numbers
